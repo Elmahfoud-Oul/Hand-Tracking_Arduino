@@ -19,6 +19,8 @@ https://user-images.githubusercontent.com/90223955/236015227-2e2da4b7-e636-4ed8-
     <li>Arduino IDE</li>
     <li>Jupyter Notebook</li>
     <li>OpenCV</li>
+<li>CvZone </li>
+<li>Mediapipe</li>
 </ul>
 
 <h2>Story</h2>
