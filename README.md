@@ -49,5 +49,6 @@ https://user-images.githubusercontent.com/90223955/236015227-2e2da4b7-e636-4ed8-
     <li>Based on the condition, send the data to Arduino.</li>
     <li>Show result on 7 segment LED.</li>
 </ol>
+<h2><code>This project Was Made By Dev El Mahfoud</code> </h2>
 
 
